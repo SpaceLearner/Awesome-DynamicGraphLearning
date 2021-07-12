@@ -51,4 +51,5 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 
 ## Tools
 
+* [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
 
