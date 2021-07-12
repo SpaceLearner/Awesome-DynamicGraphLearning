@@ -23,6 +23,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
+* DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[papr](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[code](https://github.com/aravindsankar28/DySAT)]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 
 
