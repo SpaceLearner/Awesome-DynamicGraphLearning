@@ -3,6 +3,8 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 
 ## Survey
 
+* Representation Learning for Dynamic Graphs: A Survey (**PMLR, 2020**)[[paper](https://arxiv.org/pdf/1905.11485.pdf)]
+
 ## Papers
 
 ### 2021
