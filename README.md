@@ -14,8 +14,8 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**)
-* SDG: A Simplified and Dynamic Graph Neural Network (**SIGIR, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (**SIGIR, 2021**) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
+* SDG: A Simplified and Dynamic Graph Neural Network (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR SHORT, 2021**) [[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
 
 ### 2020
