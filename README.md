@@ -15,5 +15,5 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 
 ### 2017
 
-* Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)]
+* Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
 
