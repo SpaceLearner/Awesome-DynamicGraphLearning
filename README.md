@@ -35,8 +35,8 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 
 ### 2018
 
-* NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/kdmsit/NetWalk)]
-* Dynamic Network Embedding by Modeling Triadic Closure Process [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
+* NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks (**KDD, 2018**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220024)][[code](https://github.com/kdmsit/NetWalk)]
+* Dynamic Network Embedding by Modeling Triadic Closure Process (**AAAI, 2018**) [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
 
 ### 2017
 
