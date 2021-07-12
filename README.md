@@ -26,8 +26,9 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 
 ### 2019
 
-* Variational Graph Recurrent Neural Networks (NeurIPS, 2019) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
-* EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI, 2019) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
+* Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
+* DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**)
+* EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
 * 
 
 ### 2017
