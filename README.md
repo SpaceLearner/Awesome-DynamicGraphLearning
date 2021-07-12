@@ -38,6 +38,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) [[paper](https://openreview.net/pdf?id=HyePrhR5KX)]
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) [[paper](https://arxiv.org/pdf/1908.01207.pdf)][[code](https://github.com/srijankr/jodie)]
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
+* Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)][[]]
 
 
 ### 2018
