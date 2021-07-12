@@ -1,5 +1,5 @@
 # Awesome-DynamicGraphLearning
-Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (recommendation, etc).
+Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (i.e. recommendation).
 
 将深度学习技术(图神经网络等)应用在动态图、动态网络、动态知识图谱上的论文、工具等。
 
