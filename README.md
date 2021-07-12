@@ -26,6 +26,8 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[papr](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[code](https://github.com/aravindsankar28/DySAT)]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
+* Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
+* Disentangle-based Continual Graph Representation Learning (**EMNLP, 2020**) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
 
 
 ### 2019
@@ -45,4 +47,8 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 ### 2017
 
 * Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
+* Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) [[paper]()]
+
+## Tools
+
 
