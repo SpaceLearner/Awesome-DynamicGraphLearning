@@ -1,6 +1,8 @@
 # Awesome-DynamicGraphLearning
 Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (recommendation, etc).
 
+深度学习技术(图神经网路等)应用在动态图、动态网络、动态知识图谱上的论文。
+
 ## Survey
 
 * Representation Learning for Dynamic Graphs: A Survey (**PMLR, 2020**)[[paper](https://arxiv.org/pdf/1905.11485.pdf)]
@@ -20,7 +22,12 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
-* 
+
+
+### 2019
+
+* Variational Graph Recurrent Neural Networks (NeurIPS, 2019) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
+* EnvolveGCN
 
 ### 2017
 
