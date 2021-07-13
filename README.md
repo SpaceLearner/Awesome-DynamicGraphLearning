@@ -51,6 +51,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 ### 2019
 
 * Variational Graph Recurrent Neural Networks (**NeurIPS, 2019**) [[paper](https://papers.nips.cc/paper/2019/file/a6b8deb7798e7532ade2a8934477d3ce-Paper.pdf)][[code](https://github.com/VGraphRNN/VGRNN)]
+* Recurrent Space-time Graph Neural Networks (**NeurIPS, 2019**) [[paper](http://export.arxiv.org/pdf/1904.05582#:~:text=Our%20recurrent%20neural%20graph%20ef%EF%AC%81ciently%20processes%20information%20in,in%20space-time%20using%20a%20backbone%20deep%20neural%20network.)][[code](https://github.com/IuliaDuta/RSTG)]
 * DyRep: Learning Representations over Dynamic Graphs (**ICLR, 2019**) [[paper](https://openreview.net/pdf?id=HyePrhR5KX)]
 * Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (**KDD, 2019**) [[paper](https://arxiv.org/pdf/1908.01207.pdf)][[code](https://github.com/srijankr/jodie)]
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
