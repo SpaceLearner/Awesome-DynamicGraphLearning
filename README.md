@@ -38,7 +38,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Disentangle-based Continual Graph Representation Learning (**EMNLP, 2020**) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
 * TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)][[code](https://github.com/JiapengWu/TeMP)]
 * Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
-* 
+* GloDyNE: Global Topology Preserving Dynamic Network Embedding (**TKDE, 2020**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
 
 
 ### 2019
