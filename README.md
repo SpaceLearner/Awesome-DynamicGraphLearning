@@ -6,6 +6,8 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 ## Survey
 
 * Representation Learning for Dynamic Graphs: A Survey (**PMLR, 2020**)[[paper](https://arxiv.org/pdf/1905.11485.pdf)]
+* Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey (**ARXIV, 2019**)[[paper](https://arxiv.org/pdf/1905.11485v1.pdf)]
+
 
 ## Papers
 
@@ -79,5 +81,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Tools
 
+* [Deep Graph Library]()
+* [Pytorch Geometric]()
 * [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
 
