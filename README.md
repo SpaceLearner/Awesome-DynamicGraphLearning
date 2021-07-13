@@ -36,6 +36,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Dynamic Knowledge Graph based Multi-Event Forecasting (**KDD, 2020**) [[paper](https://yue-ning.github.io/docs/KDD20-glean.pdf)][[code](https://github.com/amy-deng/glean)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
+* Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[code](https://github.com/wangjlgz/HyperRec)]
 * Temporal Network Embedding with High-Order Nonlinear Information (**AAAI, 2020**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5993)]
 * Motif-Preserving Temporal Network Embedding (**IJCAI, 2020**) [[paper](https://www.ijcai.org/proceedings/2020/0172.pdf)]
 * Dynamic Graph Collaborative Filtering (**ICDM, 2020**) [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
