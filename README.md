@@ -16,6 +16,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**)
 * Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (**SIGIR, 2021**) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR, 2021**)
+* TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion [[paper](https://arxiv.org/pdf/2104.08419.pdf)]
 * SDG: A Simplified and Dynamic Graph Neural Network (**SIGIR SHORT, 2021**) [[paper](https://github.com/DongqiFu/SDG/blob/main/paper/SDG_A%20Simplified%20and%20Dynamic%20Graph%20Neural%20Network.pdf)][[code](https://github.com/DongqiFu/SDG)]
 * Temporal Augmented Graph Neural Networks for Session-Based Recommendations (**SIGIR SHORT, 2021**) [[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
 * HINTS: Citation Time Series Prediction for New Publications via Dynamic Heterogeneous Information Network Embedding (**WWW, 2021**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_WWW_HINTS.pdf)][[code](https://github.com/songjiang0909/HINTS_code)]
@@ -30,10 +31,14 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
 * Dynamic Graph Collaborative Filtering (**ICDM, 2020**) [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
 * DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks (**WSDM, 2020**) [[papr](https://dl.acm.org/doi/pdf/10.1145/3336191.3371845)][[code](https://github.com/aravindsankar28/DySAT)]
+* Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)][[code]()]
 * Continuous-Time Dynamic Graph Learning via Neural Interaction Processes (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946)]
 * tdGraphEmbed: Temporal Dynamic Graph-Level Embedding (**CIKM, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3411953)][[code](https://github.com/moranbel/tdGraphEmbed)]
 * Streaming Graph Neural Network via Continue Learning (**CIKM, 2020**) [[paper](https://arxiv.org/pdf/2009.10951.pdf)][[code](https://github.com/Junshan-Wang/ContinualGNN)]
 * Disentangle-based Continual Graph Representation Learning (**EMNLP, 2020**) [[paper](https://arxiv.org/pdf/2010.02565.pdf)][[code](https://github.com/KXY-PUBLIC/DiCGRL)]
+* TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)][[code](https://github.com/JiapengWu/TeMP)]
+* Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
+* 
 
 
 ### 2019
