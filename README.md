@@ -88,5 +88,5 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * [Deep Graph Library](https://www.dgl.ai/)
 * [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
-* [Stellar Graph](https://github.com/stellargraph/stellargraph#introduction)
+* [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
 
