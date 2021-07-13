@@ -13,6 +13,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
+* Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
 * Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**)
 * Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (**SIGIR, 2021**) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR, 2021**)
@@ -23,10 +24,10 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
 * Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (**AAAI 2021**) [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
 * Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI 2021**) [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
-
+* Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
 ### 2020
 
-* Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs)]
+* Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
 * Dynamic Graph Collaborative Filtering (**ICDM, 2020**) [[paper](https://arxiv.org/pdf/2101.02844.pdf)][[code](https://github.com/CRIPAC-DIG/DGCF)]
