@@ -24,6 +24,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * TEDIC: Neural Modeling of Behavioral Patterns in Dynamic Social Interaction Networks (**WWW, 2021**) [[paper](http://snap.stanford.edu/tedic/files/www21_tedic.pdf)]
 * Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2104.02228.pdf)]
 * Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
+* Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
 
@@ -57,6 +58,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
+* Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)][[code]()]
 * Node Embedding over Temporal Graphs (**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
 * Temporal Network Embedding with Micro- and Macro-dynamics (**CIKM, 2019**) [[paper](https://par.nsf.gov/servlets/purl/10148548)][[code](https://github.com/rootlu/MMDNE)]
 
