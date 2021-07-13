@@ -26,7 +26,7 @@ Awesome papers about machine learning (deep learning) on dynamic (temporal) grap
 * Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2012.08740.pdf)][[code](https://github.com/InterpretableClustering/InterpretableClustering)]
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
-* 
+
 ### 2020
 
 * Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
