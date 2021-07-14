@@ -36,7 +36,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * Inductive Representation Learning on Temporal Graphs (**ICLR, 2020**) [[paper](https://arxiv.org/pdf/2002.07962.pdf)][[code](https://github.com/StatsDLMathsRecomSys/Isnductive-representation-learning-on-temporal-graphs)]
 * Temporal Graph Networks for Deep Learning on Dynamic Graphs (**ICML Workshop, 2020**) [[paper](https://arxiv.org/pdf/2006.10637v1.pdf)][[code](https://github.com/twitter-research/tgn)]
+* A Data-Driven Graph Generative Model for Temporal Interaction Networks (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403082)][[code](https://github.com/davidchouzdw/TagGen)]
 * Dynamic Knowledge Graph based Multi-Event Forecasting (**KDD, 2020**) [[paper](https://yue-ning.github.io/docs/KDD20-glean.pdf)][[code](https://github.com/amy-deng/glean)]
+* Laplacian Change Point Detection for Dynamic Graphs (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403077)][[code](https://github.com/shenyangHuang/LAD)]
+* Algorithmic Aspects of Temporal Betweenness (**KDD, 2020**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403259)][[code](https://fpt.akt.tu-berlin.de/software/temporal_betweenness/)]
 * Heterogeneous Graph Transformer (**WWW, 2020**) [[paper](https://arxiv.org/pdf/2003.01332.pdf)][[code](https://github.com/acbull/pyHGT)]
 * Streaming Graph Neural Network (**SIGIR, 2020**) [[paper](https://arxiv.org/pdf/1810.10627.pdf)][[code](https://github.com/alge24/DyGNN)]
 * Next-item Recommendation with Sequential Hypergraphs (**SIGIR, 2020**) [[paper](http://www.public.asu.edu/~kding9/pdf/SIGIR2020_HyperRec.pdf)][[code](https://github.com/wangjlgz/HyperRec)]
