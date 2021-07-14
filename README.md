@@ -96,10 +96,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
 * [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
+* [GraphVite](https://graphvite.io/)
 
 ### Knowledge Graph
 * [DGL-KE](https://dglke.dgl.ai/doc/)
-* [GraphVite](https://graphvite.io/)
 * [OpenKE](https://github.com/thunlp/OpenKE)
 
 ### Recommender System
