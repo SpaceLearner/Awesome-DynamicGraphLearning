@@ -52,7 +52,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs (**EMNLP, 2020**) [[paper](https://aclanthology.org/2020.emnlp-main.541.pdf)][[code](https://github.com/INK-USC/RE-Net)]
 * EPNE: Evolutionary Pattern Preserving Network Embedding (**ECAI, 2020**) [[paper](http://ecai2020.eu/papers/528_paper.pdf)]
 * GloDyNE: Global Topology Preserving Dynamic Network Embedding (**TKDE, 2020**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9302718)][[code](https://github.com/houchengbin/GloDyNE)]
-* Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
+* Dynamic Heterogeneous Information Network Embedding with Meta-path based Proximity (**TKDE, 2020**) [[paper](https://yuanfulu.github.io/publication/TKDE-DyHNE.pdf)][[code](https://github.com/rootlu/DyHNE)]
 * Lifelong Graph Learning (**ARXIV, 2020**) [[paper](https://arxiv.org/pdf/2009.00647.pdf)]
 
 
