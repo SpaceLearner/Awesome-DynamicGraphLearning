@@ -91,8 +91,14 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Tools
 
+### General Graph Learning
 * [Deep Graph Library](https://www.dgl.ai/)
 * [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 * [Pytorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/notes/introduction.html)
 * [Stellar Graph](https://stellargraph.readthedocs.io/en/stable/)
+
+### for Knowledge Graph
+* [DGL-KE](https://dglke.dgl.ai/doc/)
+* [GraphVite](https://graphvite.io/)
+* [OpenKE](https://github.com/thunlp/OpenKE)
 
