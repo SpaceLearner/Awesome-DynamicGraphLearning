@@ -18,7 +18,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
 * Learning to Walk across Time for Temporal Knowledge Graph Completion (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2012.10595v1.pdf)]
-* Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**)
+* Forecasting Interaction Order on Temporal Graphs (**KDD, 2021**) 
 * Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning (**SIGIR, 2021**) [[paper](https://arxiv.org/pdf/2104.10353.pdf)][[code](https://github.com/Lee-zix/RE-GCN)]
 * Inductive Representation Learning in Temporal Networks via Mining Neighborhood and Community Influences (**SIGIR, 2021**)
 * TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion [[paper](https://arxiv.org/pdf/2104.08419.pdf)]
@@ -67,7 +67,8 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Learning Dynamic Context Graphs for Predicting Social Events (**KDD, 2019**) [[paper](https://yue-ning.github.io/docs/KDD19-dengA.pdf)][[code](https://github.com/amy-deng/DynamicGCN)]
 * EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (**AAAI, 2019**) [[paper](https://arxiv.org/pdf/1902.10191.pdf)][[code](https://github.com/IBM/EvolveGCN)]
 * Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems (**WWW, 2019**) [[paper](https://arxiv.org/pdf/1904.04381.pdf)]
-* Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)][[code]()]
+* Real-Time Streaming Graph Embedding Through Local Actions (**WWW, 2019**) [[paper](https://nickduffield.net/download/papers/DL4G-SDE-2019.pdf)]
+* Dynamic Hypergraph Neural Networks (**IJCAI, 2019**) [[paper](https://www.ijcai.org/Proceedings/2019/0366.pdf)][[code](https://github.com/iMoonLab/DHGNN#:~:text=%20DHGNN%3A%20Dynamic%20Hypergraph%20Neural%20Networks%20%201,%28Zhilin%20Yang%2C%20William%20W.%20-%20Cohen%2C...%20More%20)]
 * Node Embedding over Temporal Graphs (**IJCAI, 2019**) [[paper](https://www.ijcai.org/proceedings/2019/0640.pdf)][[code](https://github.com/urielsinger/tNodeEmbed#:~:text=Node%20Embedding%20over%20Temporal%20Graphs.%20Uriel%20Singer%2C%20Ido,for%20nodes%20in%20any%20%28un%29directed%2C%20%28un%29weighted%20temporal%20graph.)]
 * Temporal Network Embedding with Micro- and Macro-dynamics (**CIKM, 2019**) [[paper](https://par.nsf.gov/servlets/purl/10148548)][[code](https://github.com/rootlu/MMDNE)]
 
