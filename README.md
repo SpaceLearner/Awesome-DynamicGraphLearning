@@ -14,6 +14,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2021
 
+* Coupled Graph ODE for Learning Interacting System Dynamics (**KDD, 2021**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2021_KDD_CG_ODE.pdf)[[code](https://github.com/ZijieH/CG-ODE)]]
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
 * Subset Node Representation Learning over Large Dynamic Graphs (**KDD, 2021**) [[paper](https://arxiv.org/pdf/2106.01570.pdf)][[code](https://github.com/zjlxgxz/DynamicPPE)]
 * Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space [[paper](https://arxiv.org/pdf/2107.03767.pdf)][[code](https://github.com/marlin-codes/HTGN-KDD21)]
