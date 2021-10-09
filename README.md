@@ -89,6 +89,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 ### 2017
 
 * Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (**ICML, 2017**) [[paper](http://proceedings.mlr.press/v70/trivedi17a/trivedi17a.pdf)][[code](https://github.com/rstriv/Know-Evolve)]
+* The Co-Evolution Model for Social Network Evolving and Opinion Migration (**KDD, 2017**) [[paper](http://web.cs.ucla.edu/~yzsun/papers/2017_kdd_coevolution.pdf)[code]()]
 * Attributed Network Embedding for Learning in a Dynamic Environment (**CIKM, 2017**) [[paper](https://arxiv.org/pdf/1706.01860.pdf)][[code](https://github.com/gaoghc/DANE)]
 
 ## Tools
