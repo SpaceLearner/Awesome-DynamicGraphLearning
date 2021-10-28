@@ -32,6 +32,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay (**AAAI, 2021**) [[paper](https://arxiv.org/pdf/2003.09908.pdf)]
 * Learning and Updating Node Embedding on Dynamic Heterogeneous Information Network (**WSDM, 2021**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441745)]
 * F-FADE: Frequency Factorization for Anomaly Detection in Edge Streams (**WSDM, 2021**) [[paper](https://cs.stanford.edu/people/jure/pubs/ffade-wsdm21.pdf)][[code](https://github.com/snap-stanford/F-FADE)]
+* Cache-based GNN System for Dynamic Graphs (**CIKM 2021**) [[paper]]
+* Self-supervised Representation Learning on Dynamic Graphs (**CIKM 2021**)[[paper]]
+* Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer [[paper](https://arxiv.org/pdf/2108.06625.pdf)][[code](https://github.com/DyGRec/TGSRec)]
+* Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs (**CIKM 2021**) [[paper](https://arxiv.org/pdf/2005.07427.pdf)]
 * Neural Higher-order Pattern (Motif) Prediction in Temporal Networks (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2106.06039.pdf)]
 
 ### 2020
