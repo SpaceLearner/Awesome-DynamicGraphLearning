@@ -12,6 +12,12 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Papers
 
+### 2022
+
+* EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (**WSDM, 2022**)
+* Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)[code](https://github.com/hyeonjeong1/cutnpeel)]
+* Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**)[[[paper](http://www.shichuan.org/doc/120.pdf)]
+* On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**)[[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
 ### 2021
 
 * Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks (**ICLR, 2021**) [[paper](https://openreview.net/pdf?id=KYPz4YsCPj)][[code](https://github.com/snap-stanford/CAW)]
