@@ -1,5 +1,4 @@
 # Awesome-DynamicGraphLearning
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome papers (codes) about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (i.e. recommendation).
 
