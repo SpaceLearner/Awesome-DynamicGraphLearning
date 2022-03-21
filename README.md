@@ -17,7 +17,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation (**WWW, 2022**) [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/WWW22-Yang%20et%20al.-STAM-GNN.pdf)][[codes](https://github.com/zyang-16/STAM)]
 * Neural Predicting Higher-order Patterns in Temporal Networks (**WWW, 2022**) [[paper](https://arxiv.org/pdf/2106.06039.pdf)][[code](https://github.com/Graph-COM/Neural_Higher-order_Pattern_Prediction)]
-* TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW, 2022**)
+* TREND: TempoRal Event and Node Dynamics for Graph Representation Learning (**WWW, 2022**) [[paper]()][[code](https://github.com/WenZhihao666/TREND)]
 * A Viral Marketing-Based Model For Opinion Dynamics in Online Social Networks (**WWW, 2022**) [[paper](https://arxiv.org/pdf/2202.03573.pdf)]
 * EvoKG: Jointly Modeling Event Time and Network Structure for Reasoning over Temporal Knowledge Graphs (**WSDM, 2022**)
 * Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
