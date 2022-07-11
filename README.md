@@ -6,6 +6,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Survey
 
+* Graph Neural Networks Designed for Different Graph Types: A Survey [[paper](https://arxiv.org/pdf/2204.03080.pdf)]
 * Representation Learning for Dynamic Graphs: A Survey (**JMLR, 2020**) [[paper](https://arxiv.org/pdf/1905.11485.pdf)]
 * A Survey on Embedding Dynamic Graphs (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2101.01229v1.pdf)]
 * Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey (**ARXIV, 2019**) [[paper](https://arxiv.org/pdf/1905.11485v1.pdf)]
