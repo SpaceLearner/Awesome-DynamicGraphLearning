@@ -18,6 +18,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2022
 
+* Instant Graph Neural Networks for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2206.01379.pdf)][[code]()]
+* Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539279)][[code]()]
+* ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2208.07239.pdf)][[code](https://github.com/snap-stanford/roland)]
+* Subset Node Anomaly Tracking over Large Dynamic Graphs (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539389)][[code](https://github.com/zjlxgxz/DynAnom)]
 * Streaming Graph Neural Networks via Generative Replay (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539336)][[code](https://github.com/Junshan-Wang/SGNN-GR)]
 * DisenCTR: Dynamic Graph-based Disentangled Representation for Click-Through Rate Prediction (**SIGIR, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3531851)]
 * STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation (**WWW, 2022**) [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/WWW22-Yang%20et%20al.-STAM-GNN.pdf)][[code](https://github.com/zyang-16/STAM)]
