@@ -2,8 +2,6 @@
 
 Awesome papers (codes) about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs) and their applications (i.e. Recommender Systems).
 
-将深度学习技术(图神经网络等)应用在动态图、动态网络、动态知识图谱上的论文、代码、工具等。
-
 ## Survey
 
 * Graph Neural Networks Designed for Different Graph Types: A Survey (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2204.03080.pdf)]
