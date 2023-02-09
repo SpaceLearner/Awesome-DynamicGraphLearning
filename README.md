@@ -19,6 +19,8 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code]()]
 
+* Neighborhood-aware Scalable Temporal Network Representation Learning (**LoG, 2023**) [[paper](https://openreview.net/pdf?id=EPUtNe7a9ta)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)]
+
 ### 2022
 
 * Instant Graph Neural Networks for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2206.01379.pdf)][[code]()]
