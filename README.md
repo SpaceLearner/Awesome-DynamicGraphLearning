@@ -21,6 +21,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2022
 
+* Adaptive Data Augmentation on Temporal Graphs (**Neurips, 2022**) [[paper](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)]
 * Instant Graph Neural Networks for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2206.01379.pdf)][[code]()]
 * Disentangled Dynamic Heterogeneous Graph Learning for Opioid Overdose Prediction (**KDD, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539279)][[code]()]
 * ROLAND: Graph Learning Framework for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2208.07239.pdf)][[code](https://github.com/snap-stanford/roland)]
