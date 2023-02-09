@@ -114,7 +114,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Embedding Temporal Network via Neighborhood Formation (**KDD, 2018**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3219819.3220054)][[code]()]
 * Dynamic Network Embedding by Modeling Triadic Closure Process (**AAAI, 2018**) [[paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)][[code](https://github.com/luckiezhou/DynamicTriad)]
 * Continuous-Time Dynamic Network Embeddings (**WWW, 2018**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191526)][[code](https://github.com/Shubhranshu-Shekhar/ctdne)]
-* Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding [[paper](https://www.ijcai.org/proceedings/2018/0288.pdf)]
+* Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding (**IJCAI, 2018**) [[paper](https://www.ijcai.org/proceedings/2018/0288.pdf)]
 
 ### 2017
 
