@@ -36,6 +36,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Finding a Concise, Precise, and Exhaustive Set of Near Bi-Cliques in Dynamic Graphs (**WSDM, 2022**) [[paper](https://arxiv.org/pdf/2110.14875.pdf)][[code](https://github.com/hyeonjeong1/cutnpeel)]
 * Few-shot Link Prediction in Dynamic Networks (**WSDM, 2022**) [[paper](http://www.shichuan.org/doc/120.pdf)]
 * On Generalizing Static Node Embedding to Dynamic Settings (**WSDM, 2022**) [[paper](https://gemslab.github.io/papers/dijin-2021-trg.pdf)]
+* Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion (**CIKM, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557233)][[code](https://github.com/zhangfw123/TLT-KGE)]
+* DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning (**CIKM, 2022**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557280)]
+* A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning (**CIKM, 2022**) [[paper](https://arxiv.org/pdf/2208.14073.pdf)]
+* Dynamic Hypergraph Learning for Collaborative Filtering (**CIKM, 2022**) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
 
 ### 2021
 
