@@ -5,7 +5,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 ## Survey
 
 * Graph Neural Networks Designed for Different Graph Types: A Survey (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2204.03080.pdf)]
-* Representation Learning for Dynamic Graphs: A Survey (**JMLR, 2020**) (**WWW, 2023**) [[paper](https://arxiv.org/pdf/1905.11485.pdf)]
+* Representation Learning for Dynamic Graphs: A Survey (**JMLR, 2020**) [[paper](https://arxiv.org/pdf/1905.11485.pdf)]
 * A Survey on Embedding Dynamic Graphs (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2101.01229v1.pdf)]
 * Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey (**ARXIV, 2019**) [[paper](https://arxiv.org/pdf/1905.11485v1.pdf)]
 * Nonlinearity + Networks: A 2020 Vision (**ARXIV, 2019**) [[paper](https://arxiv.org/pdf/1911.03805v1.pdf)]
@@ -17,7 +17,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * Towards Open Temporal Graph Neural Networks (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)][[code](https://github.com/tulerfeng/OTGNet)]
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
-* TIGER: Temporal Interaction Graph Embedding with Restarts [[paper](https://arxiv.org/pdf/2302.06057.pdf)][[code](https://github.com/yzhang1918/www2023tiger)]
+* TIGER: Temporal Interaction Graph Embedding with Restarts (**WWW, 2023**) [[paper](https://arxiv.org/pdf/2302.06057.pdf)][[code](https://github.com/yzhang1918/www2023tiger)]
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LoG, 2023**) [[paper](https://openreview.net/pdf?id=EPUtNe7a9ta)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2208.10364.pdf)][[code](https://github.com/EdisonLeeeee/SpikeNet)]
 
