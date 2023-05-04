@@ -17,7 +17,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * Towards Open Temporal Graph Neural Networks (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)][[code](https://github.com/tulerfeng/OTGNet)]
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
+* An Atentional Multi-scale Co-evolving Model for Dynamic Link Prediction (**WWW, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583396)][[code](https://github.com/tsinghua-fib-lab/AMCNet)]
 * TIGER: Temporal Interaction Graph Embedding with Restarts (**WWW, 2023**) [[paper](https://arxiv.org/pdf/2302.06057.pdf)][[code](https://github.com/yzhang1918/www2023tiger)]
+* HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (**WWW, 2023**) [[paper](https://arxiv.org/pdf/2304.07302.pdf)][[code](https://github.com/TaiLvYuanLiang/HGWaveNet)]
+* Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs (**WWW, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583476)][[code](https://github.com/susheels/tgrank)]
 * Local Edge Dynamics and Opinion Polarization (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2111.14020.pdf)][[code](https://github.com/adamlechowicz/opinion-polarization/)]
 * Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2211.08568.pdf)][[code](https://github.com/RManLuo/GSNOP)]
 * Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs (**WSDM, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570453)]
