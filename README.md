@@ -19,7 +19,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
 * TIGER: Temporal Interaction Graph Embedding with Restarts (**WWW, 2023**) [[paper](https://arxiv.org/pdf/2302.06057.pdf)][[code](https://github.com/yzhang1918/www2023tiger)]
 * Local Edge Dynamics and Opinion Polarization (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2111.14020.pdf)][[code](https://github.com/adamlechowicz/opinion-polarization/)]
-* Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs [[paper](https://arxiv.org/pdf/2211.08568.pdf)][[code](https://github.com/RManLuo/GSNOP)]
+* Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2211.08568.pdf)][[code](https://github.com/RManLuo/GSNOP)]
 * Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs (**WSDM, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570453)]
 * Neighborhood-aware Scalable Temporal Network Representation Learning (**LoG, 2023**) [[paper](https://openreview.net/pdf?id=EPUtNe7a9ta)][[code](https://github.com/Graph-COM/Neighborhood-Aware-Temporal-Network)]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2208.10364.pdf)][[code](https://github.com/EdisonLeeeee/SpikeNet)]
