@@ -17,6 +17,13 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * Towards Open Temporal Graph Neural Networks (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)][[code](https://github.com/tulerfeng/OTGNet)]
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
+* A Higher-Order Temporal H-Index for Evolving Networks (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2305.16001.pdf)]
+* Using Motif Transitions for Temporal Graph Generation (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2306.11190.pdf)]
+* Temporal Dynamics Aware Adversarial Attacks on Discrete-Time Graph Models (**KDD, 2023**) [[paper](https://openreview.net/pdf?id=yUY15QBERj)][[code](https://github.com/erdemUB/KDD23-MTM)]
+* Fairness-Aware Continuous Predictions of Multiple Analytics Targets in Dynamic Networks (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2209.01678.pdf)]
+* DyTed: Disentangled Representation Learning for Discrete-time Dynamic Graph (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2210.10592.pdf)]
+* WinGNN: Dynamic Graph Neural Networks with Random Gradient Aggregation Window (**KDD, 2023**) 
+* Community-based Dynamic Graph Learning for Popularity Prediction (**KDD, 2023**)
 * An Atentional Multi-scale Co-evolving Model for Dynamic Link Prediction (**WWW, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3543507.3583396)][[code](https://github.com/tsinghua-fib-lab/AMCNet)]
 * TIGER: Temporal Interaction Graph Embedding with Restarts (**WWW, 2023**) [[paper](https://arxiv.org/pdf/2302.06057.pdf)][[code](https://github.com/yzhang1918/www2023tiger)]
 * HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction (**WWW, 2023**) [[paper](https://arxiv.org/pdf/2304.07302.pdf)][[code](https://github.com/TaiLvYuanLiang/HGWaveNet)]
