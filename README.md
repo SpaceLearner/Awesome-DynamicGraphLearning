@@ -15,6 +15,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2023
 
+* Towards Better Dynamic Graph Learning: New Architecture and Unified Library (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.13047.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
 * Towards Open Temporal Graph Neural Networks (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)][[code](https://github.com/tulerfeng/OTGNet)]
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
 * A Higher-Order Temporal H-Index for Evolving Networks (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2305.16001.pdf)]
