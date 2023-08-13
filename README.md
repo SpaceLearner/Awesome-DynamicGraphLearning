@@ -4,6 +4,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Survey
 
+* Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.01018.pdf)]
 * Graph Neural Networks Designed for Different Graph Types: A Survey (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2204.03080.pdf)]
 * Representation Learning for Dynamic Graphs: A Survey (**JMLR, 2020**) [[paper](https://arxiv.org/pdf/1905.11485.pdf)]
 * A Survey on Embedding Dynamic Graphs (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2101.01229v1.pdf)]
