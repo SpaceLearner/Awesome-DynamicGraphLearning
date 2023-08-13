@@ -22,6 +22,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Do We Really Need Complicated Model Architectures For Temporal Networks? (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=ayPPc0SyLv1)][[code](https://github.com/CongWeilin/GraphMixer)]
 * Zebra: When Temporal Graph Neural Networks Meet Temporal Personalized PageRank (**VLDB, 2023**) [[paper](https://www.vldb.org/pvldb/vol16/p1332-li.pdf)][[code](https://github.com/LuckyLYM/Zebra)]
 * Temporal SIR-GN: Eficient and Efective Structural Representation Learning for Temporal Graphs (**VLDB, 2023**) [[paper](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)][[code](https://github.com/janetlayne2/Temporal-SIR-GN)]
+* SEIGN: A Simple and Efficient Graph Neural Network for Large Dynamic Graphs (**ICDE, 2023**) [[paper](https://ieeexplore.ieee.org/abstract/document/10184567)]
 * A Higher-Order Temporal H-Index for Evolving Networks (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2305.16001.pdf)]
 * Using Motif Transitions for Temporal Graph Generation (**KDD, 2023**) [[paper](https://arxiv.org/pdf/2306.11190.pdf)]
 * Temporal Dynamics Aware Adversarial Attacks on Discrete-Time Graph Models (**KDD, 2023**) [[paper](https://openreview.net/pdf?id=yUY15QBERj)][[code](https://github.com/erdemUB/KDD23-MTM)]
