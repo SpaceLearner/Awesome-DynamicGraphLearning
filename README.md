@@ -14,6 +14,15 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Papers
 
+### 2024
+
+* Dynamic Graph Information Bottleneck (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2402.06716.pdf)][[code](https://github.com/RingBDStack/DGIB)]
+* On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2401.14009.pdf)]
+* Temporal Conformity-aware Hawkes Graph Network for Recommendations (**WWW, 2024**) 
+* IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (**WWW, 2024**)
+* TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (**WWW, 2024**)
+* Efficient exact and approximate betweenness centrality computation for temporal graphs (**WWW, 2024**)
+
 ### 2023
 
 * Towards Better Dynamic Graph Learning: New Architecture and Unified Library (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.13047.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
