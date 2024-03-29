@@ -16,6 +16,15 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2024
 
+* Mayfly: a Neural Data Structure for Graph Stream Summarization (**ICLR, 2024, Spotlight**) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
+* Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
+* FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=82Mc5ilInM&name=pdf)][[code](https://github.com/Tianxzzz/FreeDyG)]
+* PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=gjXor87Xfy&name=pdf)][[code](https://github.com/jwsu825/MDGNN_BS)]
+* Hypergraph Dynamic System (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=NLbRvr840Q&name=pdf)]
+* Deep Temporal Graph Clustering (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
+* GraphPulse: Topological representations for temporal graph property prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=DZqic2sPTY&name=pdf)][[code](https://github.com/kiarashamsi/GraphPulse)]
+* Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=uvFhCUPjtI&name=pdf)][[code](https://github.com/ansonb/EFT)]
+* Temporal Generalization Estimation in Evolving Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=HFtrXBfNru&name=pdf)]
 * Dynamic Graph Information Bottleneck (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2402.06716.pdf)][[code](https://github.com/RingBDStack/DGIB)]
 * On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2401.14009.pdf)]
 * Temporal Conformity-aware Hawkes Graph Network for Recommendations (**WWW, 2024**) 
