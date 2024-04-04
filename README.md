@@ -16,6 +16,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2024
 
+* TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (**IPDPS, 2024**) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
 * Mayfly: a Neural Data Structure for Graph Stream Summarization (**ICLR, 2024, Spotlight**) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
 * FreeDyG: Frequency Enhanced Continuous-Time Dynamic Graph Model for Link Prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=82Mc5ilInM&name=pdf)][[code](https://github.com/Tianxzzz/FreeDyG)]
@@ -34,6 +35,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2023
 
+* DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training (**SC, 2023**) [[paper](https://arxiv.org/abs/2307.07649)][[code](https://github.com/amazon-science/disttgl)]
 * Towards Better Dynamic Graph Learning: New Architecture and Unified Library (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.13047.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
 * SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.03379.pdf)][[code](https://github.com/Graph-COM/SUREL_Plus)]
 * Towards Open Temporal Graph Neural Networks (**ICLR, 2023**) [[paper](https://openreview.net/pdf?id=N9Pk5iSCzAn)][[code](https://github.com/tulerfeng/OTGNet)]
