@@ -25,6 +25,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Deep Temporal Graph Clustering (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=ViNe1fjGME&name=pdf)][[code](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering)]
 * GraphPulse: Topological representations for temporal graph property prediction (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=DZqic2sPTY&name=pdf)][[code](https://github.com/kiarashamsi/GraphPulse)]
 * Beyond Spatio-Temporal Representations: Evolving Fourier Transform for Temporal Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=uvFhCUPjtI&name=pdf)][[code](https://github.com/ansonb/EFT)]
+* HOPE: High-order Graph ODE For Modeling Interacting Dynamics (**ICML, 2024, Poster**) [[paper](https://openreview.net/attachment?id=9iChKP4k32&name=pdf)]
 * Temporal Generalization Estimation in Evolving Graphs (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=HFtrXBfNru&name=pdf)]
 * Dynamic Graph Information Bottleneck (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2402.06716.pdf)][[code](https://github.com/RingBDStack/DGIB)]
 * On the Feasibility of Simple Transformer for Dynamic Graph Modeling (**WWW, 2024**) [[paper](https://arxiv.org/pdf/2401.14009.pdf)]
@@ -32,6 +33,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (**WWW, 2024**)
 * TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (**WWW, 2024**)
 * Efficient exact and approximate betweenness centrality computation for temporal graphs (**WWW, 2024**)
+* Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (**Neurips 2024 Submission**) [[paper](https://arxiv.org/pdf/2405.14170)][[code](https://anonymous.4open.science/r/LLM-DA-1E6D)]
 
 ### 2023
 
