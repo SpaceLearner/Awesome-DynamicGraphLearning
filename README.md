@@ -16,6 +16,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2024
 
+* SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2402.11933)][[code](https://arxiv.org/pdf/2402.11933)]
+* Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space (**SIGKDD, 2024**) [[code](https://github.com/tsinghua-fib-lab/DiskNet)]
+* Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2407.08500)][[code]()]
+* MemMap: An Adaptive and Latent Memory Structure for Dynamic Graph Learning (**SIGKDD, 2024**)
 * TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning (**IPDPS, 2024**) [[paper](https://arxiv.org/abs/2402.05396)][[code](https://github.com/facebookresearch/taser-tgnn)]
 * Mayfly: a Neural Data Structure for Graph Stream Summarization (**ICLR, 2024, Spotlight**) [[paper](https://openreview.net/attachment?id=n7Sr8SW4bn&name=pdf)]
 * Causality-Inspired Spatial-Temporal Explanations for Dynamic Graph Neural Networks (**ICLR, 2024, Poster**) [[paper](https://openreview.net/attachment?id=AJBkfwXh3u&name=pdf)][[code](https://github.com/kesenzhao/DyGNNExplainer)]
