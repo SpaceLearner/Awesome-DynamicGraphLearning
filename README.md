@@ -16,6 +16,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2024
 
+* Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2406.11891)]
 * SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2402.11933)][[code](https://arxiv.org/pdf/2402.11933)]
 * Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space (**SIGKDD, 2024**) [[code](https://github.com/tsinghua-fib-lab/DiskNet)]
 * Latent Conditional Diffusion-based Data Augmentation for Continuous-Time Dynamic Graph Model (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2407.08500)][[code]()]
