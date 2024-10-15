@@ -4,6 +4,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Survey
 
+* Deep learning for dynamic graphs: models and benchmarks (**TNNLS, 2024**) [[paper](https://ieeexplore.ieee.org/document/10490120)][[code](https://github.com/gravins/dynamic_graph_benchmark)]
 * Graph Neural Networks for temporal graphs: State of the art, open challenges, and opportunities (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.01018.pdf)]
 * Graph Neural Networks Designed for Different Graph Types: A Survey (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2204.03080.pdf)]
 * Representation Learning for Dynamic Graphs: A Survey (**JMLR, 2020**) [[paper](https://arxiv.org/pdf/1905.11485.pdf)]
@@ -16,6 +17,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2024
 
+* Long Range Propagation on Continuous-Time Dynamic Graphs (**ICML, 2024**) [[paper](https://proceedings.mlr.press/v235/gravina24a.html)][[code](https://github.com/gravins/non-dissipative-propagation-CTDGs)]
 * Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2406.11891)]
 * SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2402.11933)][[code](https://arxiv.org/pdf/2402.11933)]
 * Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space (**SIGKDD, 2024**) [[code](https://github.com/tsinghua-fib-lab/DiskNet)]
@@ -38,7 +40,9 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion (**WWW, 2024**)
 * TATKC: A Temporal Graph Neural Network for Fast Approximate Temporal Katz Centrality Ranking (**WWW, 2024**)
 * Efficient exact and approximate betweenness centrality computation for temporal graphs (**WWW, 2024**)
+* Temporal Graph ODEs for Irregularly-Sampled Time Series (**IJCAI, 2024**) [[paper](https://www.ijcai.org/proceedings/2024/445)][[code](https://github.com/gravins/TG-ODE)]
 * Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning (**Neurips 2024 Submission**) [[paper](https://arxiv.org/pdf/2405.14170)][[code](https://anonymous.4open.science/r/LLM-DA-1E6D)]
+* Anomaly Detection in Continuous-Time Temporal Provenance Graphs (**Temporal Graph Learning Workshop @ NeurIPS, 2023**) [[paper](https://openreview.net/pdf?id=88tGIxxhsfn)][[code](https://github.com/JakubReha/ProvCTDG)]
 
 ### 2023
 
@@ -65,6 +69,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2211.08568.pdf)][[code](https://github.com/RManLuo/GSNOP)]
 * Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs (**WSDM, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570453)]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2208.10364.pdf)][[code](https://github.com/EdisonLeeeee/SpikeNet)]
+* Hidden Markov Models for Temporal Graph Representation Learning (**ESANN, 2023**) [[paper](https://www.esann.org/sites/default/files/proceedings/2023/ES2023-35.pdf)][[code](https://github.com/nec-research/hidden_markov_model_temporal_graphs)]
 
 
 ### 2022
