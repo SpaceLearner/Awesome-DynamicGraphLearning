@@ -18,6 +18,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 ### 2024
 
 * Long Range Propagation on Continuous-Time Dynamic Graphs (**ICML, 2024**) [[paper](https://proceedings.mlr.press/v235/gravina24a.html)][[code](https://github.com/gravins/non-dissipative-propagation-CTDGs)]
+*  LLM4DyG: Can Large Language Models Solve Spatial-Temporal Problems on Dynamic Graphs? (**SIGKDD, 2024**) [[paper](https://arxiv.org/abs/2310.17110)][[code](https://github.com/wondergo2017/LLM4DyG)]
 * Towards Adaptive Neighborhood for Advancing Temporal Interaction Graph Modeling (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2406.11891)]
 * SLADE: Detecting Dynamic Anomalies in Edge Streams without Labels via Self-Supervised Learning (**SIGKDD, 2024**) [[paper](https://arxiv.org/pdf/2402.11933)][[code](https://arxiv.org/pdf/2402.11933)]
 * Predicting Long-term Dynamics of Complex Networks via Identifying Skeleton in Hyperbolic Space (**SIGKDD, 2024**) [[code](https://github.com/tsinghua-fib-lab/DiskNet)]
@@ -46,6 +47,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2023
 
+* Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts (**Neurips, 2023**) [[paper](https://arxiv.org/abs/2403.05026)][[code](https://github.com/wondergo2017/sild)]
 * DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training (**SC, 2023**) [[paper](https://arxiv.org/abs/2307.07649)][[code](https://github.com/amazon-science/disttgl)]
 * Towards Better Dynamic Graph Learning: New Architecture and Unified Library (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.13047.pdf)][[code](https://github.com/yule-BUAA/DyGLib)]
 * SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.03379.pdf)][[code](https://github.com/Graph-COM/SUREL_Plus)]
@@ -68,6 +70,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 * Local Edge Dynamics and Opinion Polarization (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2111.14020.pdf)][[code](https://github.com/adamlechowicz/opinion-polarization/)]
 * Graph Sequential Neural ODE Process for Link Prediction on Dynamic and Sparse Graphs (**WSDM, 2023**) [[paper](https://arxiv.org/pdf/2211.08568.pdf)][[code](https://github.com/RManLuo/GSNOP)]
 * Interpretable Research Interest Shift Detection with Temporal Heterogeneous Graphs (**WSDM, 2023**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3539597.3570453)]
+* Dynamic Heterogeneous Graph Attention Neural Architecture Search (**AAAI, 2023**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26338)][[code](https://github.com/wondergo2017/DHGAS)]
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks (**AAAI, 2023**) [[paper](https://arxiv.org/pdf/2208.10364.pdf)][[code](https://github.com/EdisonLeeeee/SpikeNet)]
 * Hidden Markov Models for Temporal Graph Representation Learning (**ESANN, 2023**) [[paper](https://www.esann.org/sites/default/files/proceedings/2023/ES2023-35.pdf)][[code](https://github.com/nec-research/hidden_markov_model_temporal_graphs)]
 
@@ -76,6 +79,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 * TGL: A General Framework for Temporal GNN Training on Billion-Scale Graphs (**VLDB, 2022**) [[paper](https://arxiv.org/pdf/2203.14883.pdf)][[code](https://github.com/amazon-science/tgl)]
 * Neural Temporal Walks: Motif-Aware Representation Learning on Continuous-Time Dynamic Graphs (**Neurips, 2022**)[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/7dadc855cef7494d5d956a8d28add871-Paper-Conference.pdf)][[code](https://github.com/KimMeen/Neural-Temporal-Walks)]
+* Dynamic Graph Neural Networks Under Spatio-Temporal Distribution Shift (**Neurips, 2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/2857242c9e97de339ce642e75b15ff24-Abstract-Conference.html)][[code](https://github.com/wondergo2017/DIDA)]
 * Adaptive Data Augmentation on Temporal Graphs (**Neurips, 2022**) [[paper](https://proceedings.neurips.cc/paper/2021/file/0b0b0994d12ad343511adfbfc364256e-Paper.pdf)]
 * Parameter-free Dynamic Graph Embedding for Link Prediction (**Neurips, 2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b14d7175755b180dc2163e15e3110cb6-Paper-Conference.pdf)][[code](https://github.com/FudanCISL/FreeGEM)]
 * Instant Graph Neural Networks for Dynamic Graphs (**KDD, 2022**) [[paper](https://arxiv.org/pdf/2206.01379.pdf)][[code]()]
