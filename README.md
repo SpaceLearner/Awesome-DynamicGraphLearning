@@ -15,6 +15,10 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ## Papers
 
+### 2025
+
+* Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding  (**WSDM, 2025**) [[paper](https://arxiv.org/abs/2407.16959)][[code](https://github.com/wangz3066/CorDGT)]
+
 ### 2024
 
 * Long Range Propagation on Continuous-Time Dynamic Graphs (**ICML, 2024**) [[paper](https://proceedings.mlr.press/v235/gravina24a.html)][[code](https://github.com/gravins/non-dissipative-propagation-CTDGs)]
