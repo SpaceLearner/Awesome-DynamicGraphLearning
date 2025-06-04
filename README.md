@@ -17,6 +17,7 @@ Awesome papers (codes) about machine learning (deep learning) on dynamic (tempor
 
 ### 2025
 
+* Rethinking Time Encoding via Learnable Transformation Functions (**ICML, 2025**) [[paper](https://arxiv.org/pdf/2505.00887)][[code](https://github.com/chenxi1228/LeTE)]
 * Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding  (**WSDM, 2025**) [[paper](https://arxiv.org/abs/2407.16959)][[code](https://github.com/wangz3066/CorDGT)]
 
 ### 2024
